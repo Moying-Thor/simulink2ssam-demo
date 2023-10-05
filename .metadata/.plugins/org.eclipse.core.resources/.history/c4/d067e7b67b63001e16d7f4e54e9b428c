@@ -1,7 +1,7 @@
 "Begin run...".println();
 //showAllBlocksInfotation();
 transform();
-"Run done! ".println();
+"Run done!".println();
 
 operation transform(){
 	var allBlocks = getAllBlocks();
